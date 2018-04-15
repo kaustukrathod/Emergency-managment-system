@@ -12,7 +12,6 @@ public class Relief_Team {
 	String login_id;
 	String password;
 	String he_me;
-	String[] videoID;
 	String location;
 	Relief_Team d;
 	Scanner sc=new Scanner(System.in);
